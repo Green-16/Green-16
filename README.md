@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Green-16
 - 👀 I’m interested in python，data analysis,machine learning, and deep learning.
 - 🌱 I’m currently learning machine learning and statistic methods .
-- 💞️ I like  work seriously and live seriously. As the song <serious snow>.
+- 💞️ I like  work seriously and live seriously. As the song `serious snow`.
  
 - 📫 You can connect me by email, the address is slws1036@163.com
 
